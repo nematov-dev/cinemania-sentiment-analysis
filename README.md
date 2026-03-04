@@ -30,7 +30,7 @@ transfer learning from the Hugging Face `transformers` library.
 ## 🛠️ Tech Stack
 
 -   **Language:** Python
--   **Frameworks:** PyTorch, Hugging Face (Transformers, Datasets)
+-   **Frameworks:** PyTorch
 -   **Libraries:** Pandas, NumPy, Scikit-learn, Gradio
 -   **Architecture:** DistilBERT, Vanilla RNN
 
