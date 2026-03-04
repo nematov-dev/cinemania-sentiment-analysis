@@ -89,7 +89,6 @@ Create a file named `requirements.txt` and add the following lines:
 
     torch
     transformers
-    datasets
     pandas
     numpy
     gradio
